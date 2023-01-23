@@ -31,6 +31,7 @@ numpy           # for common mathematical calculations
 torch
 torchmetrics>=0.7.0
 torchvision
+pytorch-lightning
 
 # -------- statistics -------- #
 statsmodels
